@@ -1,5 +1,8 @@
-# SQL Programs
+## Employee Table Program
+This SQL program creates an Employee table, inserts records, and displays employee details using SELECT queries.  
+ 
 
+# SQL Programs
 This repository contains beginner SQL programs and database practice queries.
 
 ## Topics Covered
