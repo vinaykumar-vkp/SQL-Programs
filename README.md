@@ -9,8 +9,7 @@ This repository contains beginner SQL programs and database practice queries.
 - CREATE TABLE
 - INSERT
 - SELECT
-- UPDATE
-- DELETE
+- Order- by
 
 ## Author
 Vinay Kumar Patel
