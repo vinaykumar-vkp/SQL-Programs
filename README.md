@@ -10,6 +10,7 @@ This repository contains beginner SQL programs and database practice queries.
 - INSERT
 - SELECT
 - Order- by
+- count function 
 
 ## Author
 Vinay Kumar Patel
