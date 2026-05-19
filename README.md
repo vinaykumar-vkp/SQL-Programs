@@ -11,6 +11,7 @@ This repository contains beginner SQL programs and database practice queries.
 - SELECT
 - Order- by
 - count function 
+- Group by
 
 ## Author
 Vinay Kumar Patel
